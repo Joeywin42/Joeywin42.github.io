@@ -1,0 +1,14 @@
+body {
+  background-color: whitesmoke;
+}
+
+h1 {
+  color: blue;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 250%;
+}
+
+p1{
+    color: black;
+    font-size: 120%;
+}
